@@ -1,0 +1,14 @@
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.Tests.deps.json
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.Tests.runtimeconfig.json
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.Tests.runtimeconfig.dev.json
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\obj\Debug\netcoreapp1.1\Leetspeak.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\obj\Debug\netcoreapp1.1\Leetspeak.Tests.AssemblyInfo.cs
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.Tests.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.Tests.pdb
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\bin\Debug\netcoreapp1.1\Leetspeak.pdb
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\obj\Debug\netcoreapp1.1\Leetspeak.Tests.dll
+C:\Projects\Epicodus\C#\LeetSpeak.Solution\LeetspeakTests\obj\Debug\netcoreapp1.1\Leetspeak.Tests.pdb
